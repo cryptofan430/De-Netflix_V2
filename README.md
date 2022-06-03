@@ -1,1 +1,1 @@
-# De-Netflix_V2
+# Decentralized Netflix
